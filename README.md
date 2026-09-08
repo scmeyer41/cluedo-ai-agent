@@ -2,7 +2,7 @@
 
 A command-line implementation of Cluedo featuring autonomous agents that reason under partial observability. Each AI maintains private card-ownership domains, incorporates evidence from suggestions and refutations, and repeatedly applies general constraints until reaching a fixed point.
 
-This project was completed by **Steven Meyer** for CS 670: Artificial Intelligence.
+This project was completed by me for CS 670: Artificial Intelligence.
 
 ## Highlights
 
